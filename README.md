@@ -34,7 +34,7 @@ This project is a **Google Analytics 4 Path Exploration Report** so the main aim
 - ---
 
 ## 📂 Project Deliverables
-- [📑 Full Report (PDF)]([📑 Full Report (PDF)](./report/Path_Exploration_User_Navigation_Flow_Report.pdf)
+- [📑 Full Report (PDF)]( Path_Exploration_User_Navigation_Flow_Report.pdf)
 - [🎥 Video Walkthrough](https://drive.google.com/file/d/1GPhNdsPcv21jYItfuG1HomyFM4G90Snn/view?usp=drive_link)
 
 - ---
