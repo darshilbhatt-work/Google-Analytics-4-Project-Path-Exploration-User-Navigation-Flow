@@ -22,9 +22,9 @@ This project is a **Google Analytics 4 Path Exploration Report** so the main aim
 4. Which events got triggered by the Users after “page view”?
 5. How many users began the “begin checkout” process after page view event?
 
-6. ---
+ ---
 
-7. ## 📈 Methodology
+ ## 📈 Methodology
 - **Analysis Type:** Path Exploration Report
 - **Objective:** Understanding how Users navigate after Homepage and before “purchase” event and generate key insights.
 - **Data Setup:**  Node Type ( event name, pages title & screen name, page title & screen class , page path & screen class etc.) |  Metric- Active Count 
