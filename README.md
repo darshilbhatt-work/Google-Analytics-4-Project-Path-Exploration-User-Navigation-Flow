@@ -34,6 +34,20 @@ This project is a **Google Analytics 4 Path Exploration Report** so the main aim
 - ---
 
 ## 📂 Project Deliverables
-- [📑 Full Report (PDF)](./Traffic_Channel_Performance_Report.pdf)  
-- [🎥 Video Walkthrough](Insert_Your_Video_Link_Here)  
-- Screenshots → see `/screenshots` folder  
+- [📑 Full Report (PDF)]([📑 Full Report (PDF)](./report/Path_Exploration_User_Navigation_Flow_Report.pdf)
+- [🎥 Video Walkthrough](https://drive.google.com/file/d/1GPhNdsPcv21jYItfuG1HomyFM4G90Snn/view?usp=drive_link)
+
+- ---
+
+## ✅ Recommended Actions
+- We can generate Cohorts or identify similar patterns in Users behaviors before “purchase” event.
+- It would be easier to identify the top pages Users go towards after arriving on “Home” page.
+- If there are any drop-offs before “purchase” event we can clearly see onto which page or by which event it occurred and optimize upon those areas.
+
+- ---
+
+## 📬 Contact
+- **Email:** darshilbhatt.business@gmail.com  
+- **LinkedIn:** [Darshil Bhatt](https://www.linkedin.com/in/darshil-bhatt-a2a6bb22a/)
+
+
